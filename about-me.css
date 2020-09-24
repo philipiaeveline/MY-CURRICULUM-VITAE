@@ -1,10 +1,13 @@
 body{
     background-color:cornsilk;
     background-repeat:no-repeat;
+    color: orangered;
+    text-align:center;
+
 }
 .Eve{
     text-align: center;
-    color:gold; 
+    color:limegreen; 
 }
 *{
     margin: 0;
@@ -29,4 +32,5 @@ body{
     padding:0%;
    font-style: normal;
    width: 100%;
+
 }
