@@ -1,33 +1,21 @@
 body{
     background-color:cornsilk;
-   background-image: url(/images/IMG-20200924-WA0000.jpg);
-   background-repeat: no-repeat;
+    background-repeat:no-repeat;
 }
 .Eve{
     text-align: center;
-    color:gold;
+    color:gold; 
 }
 *{
     margin: 0;
     padding: 18px;
     box-sizing: border-box;
+} 
 }
-.profile-img{
-    width: 40%;
-    float: right;}
-.about{
-    margin-left: 15px;
-}
-.profile-info{
-    width: 60%;
-    height: 100vh;
-    float: left;
-    padding: 0 30px;
-}
-.home{
+ .home{
     display: flex;
     text-align: center;
-}
+} 
 .home nav ul li {
     display: inline-block;
     color: lightgreen; 
