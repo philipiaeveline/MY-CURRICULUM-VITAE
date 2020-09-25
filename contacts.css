@@ -17,11 +17,12 @@ body{
     text-align:center;
     border: 4px solid green;
 }
-.home nav ul li {
+ nav ul li {
     display: inline-block;
     color: lightgreen; 
     background-color: hotpink;
     justify-content: space-between;
+
     
 }
 li>a {
@@ -52,8 +53,8 @@ textarea {
     resize: vertical;
 }
 
-input[type=email],
-select,
+input[type=email], 
+ select, 
 textarea {
     width: 100%;
     padding: 12px;
