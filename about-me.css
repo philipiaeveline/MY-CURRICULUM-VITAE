@@ -34,4 +34,13 @@ body{
    font-style: normal;
    width: 100%;
 
+}@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
 }
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
