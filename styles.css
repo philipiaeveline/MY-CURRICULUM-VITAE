@@ -14,9 +14,7 @@ body{
 }
 .profile-img{
     width: 40%;
-    float: right;}
-.about{
-    margin-left: 15px;
+    float: right;
 }
 .profile-info{
     width: 60%;
@@ -42,5 +40,12 @@ body{
    font-style: normal;
    width: 100%;
 }
+   .about{
+    width: 220px;
+    float: left;
+    padding: 15px;
+    margin: left 15px;
+  }
+
 
     

@@ -1,9 +1,9 @@
 
 body{
-    background-image: url(images/raw_file_format_2_1024x1024.webp);
+    background-image: url(images/images.jpeg);
     background-repeat: no-repeat;
 }
-.home nav ul li {
+.portfolio nav ul li {
     display: inline-block;
     color: lightgreen; 
     background-color: hotpink;
