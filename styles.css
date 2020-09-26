@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(/images/IMG-20200924-WA0000.jpg);
+    background-image: url(images/evelinerr\ \(1\).jpeg);
     background-repeat: no-repeat;
     background-size:cover ;
 }
@@ -26,16 +26,16 @@ body{
     display: flex;
     text-align: center;
 }
-.home nav ul li {
+nav ul li {
     display: inline-block;
     color: lightgreen; 
-    background-color: hotpink;
+    background-color:beige;
     justify-content: space-between;
     text-decoration: none;
     
 }
 .footer{
-    background-color:hotpink;
+    background-color:beige;
     text-align-last:center;
     padding:0%;
    font-style: normal;

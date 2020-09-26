@@ -3,7 +3,7 @@
 }
 
 .footer{
-    background-color:hotpink;
+    background-color:beige;
     text-align-last:center;
     padding:0%;
    font-style: normal;
@@ -20,7 +20,7 @@ body{
  nav ul li {
     display: inline-block;
     color: lightgreen; 
-    background-color: hotpink;
+    background-color:beige;
     justify-content: space-between;
 
     

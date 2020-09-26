@@ -7,7 +7,6 @@ body{
 }
 .Eve{
     text-align: center;
-    color:limegreen; 
 }
 *{
     margin: 0;
@@ -20,14 +19,16 @@ body{
     text-align: center;
 } 
  nav ul li {
-    display: inline-block;
-    color: lightgreen; 
-    background-color: hotpink;
+    display: inline-block; 
+    background-color:beige;
     justify-content: space-between;
     
 }
+nav ul li a{
+    text-decoration: none;
+}
 .footer{
-    background-color:hotpink;
+    background-color:beige;
     text-align-last:center;
     padding:0%;
    font-style: normal;
@@ -48,3 +49,4 @@ body{
 .hope{
     list-style: none;
 }
+
