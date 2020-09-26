@@ -13,6 +13,7 @@ body{
     padding: 18px;
     box-sizing: border-box;
 } 
+
 }
  .home{
     display: flex;
@@ -22,6 +23,10 @@ body{
     display: inline-block; 
     background-color:beige;
     justify-content: space-between;
+    
+}
+
+.background{
     
 }
 nav ul li a{
@@ -50,3 +55,4 @@ nav ul li a{
     list-style: none;
 }
 
+ 

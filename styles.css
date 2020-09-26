@@ -6,11 +6,14 @@
     margin: 0;
     padding: 18px;
     box-sizing: border-box;
-}
+} 
 body{
     background-image: url(images/evelinerr\ \(1\).jpeg);
     background-repeat: no-repeat;
-    background-size:cover ;
+    background-size:cover;
+    border: solid beige;
+    padding-top: 5%;
+
 }
 .profile-img{
     width: 40%;
@@ -41,12 +44,6 @@ nav ul li {
    font-style: normal;
    width: 100%;
 }
-   .about{
-    width: 220px;
-    float: left;
-    padding: 15px;
-    margin: left 15px;
-  }
 @media screen and (min-width: 480px) and (max-width: 767px) {
     body {
         background-color: black;
@@ -64,4 +61,13 @@ nav ul li a {
 nav ul {
     float: right;
     margin-right: -10px;
+}
+.images{
+
+    display: inline-block;
+    width: 30%;
+    padding: 20px 20px;
+     margin: 2%;
+     text-align: center;
+     box-shadow: yellowgreen;
 }
