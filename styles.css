@@ -4,7 +4,7 @@
 }
 *{
     margin: 0;
-    padding: 18px;
+    padding:20px;
     box-sizing: border-box;
 } 
 body{
@@ -12,7 +12,7 @@ body{
     background-repeat: no-repeat;
     background-size:cover;
     border: solid beige;
-    padding-top: 5%;
+    /* padding-top: 5%; */
 
 }
 .profile-img{
@@ -26,16 +26,17 @@ body{
     padding: 0 30px;
 }
 .home{
-    display: flex;
     text-align: center;
-}
-nav ul li {
-    display: inline-block;
-    color: lightgreen; 
+    width: 100%;
     background-color:beige;
-    justify-content: space-between;
-    text-decoration: none;
-    
+    padding-top: 20px;
+}
+.home nav ul li{
+    display: inline-block;
+    list-style: none;
+    text-decoration:none;
+    padding: 20px;
+    color: beige;
 }
 .footer{
     background-color:beige;
@@ -54,20 +55,4 @@ nav ul li {
   body {
     background-color:burlywood;
   }  
-}
-nav ul li a {
-    text-decoration: none;
-}
-nav ul {
-    float: right;
-    margin-right: -10px;
-}
-.images{
-
-    display: inline-block;
-    width: 30%;
-    padding: 20px 20px;
-     margin: 2%;
-     text-align: center;
-     box-shadow: yellowgreen;
 }
