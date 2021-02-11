@@ -1,5 +1,5 @@
 # {MY CURRICULUM-VITAE}
-#### {Success is the key to education so never give up.}, {25/09/2020}
+#### {Success is the key to education so never give up.}, {11/02/2021}
 #### By **{PHILIPIA EVELINE}**
 ## Setup/Installation Requirements
 * This is a great place
@@ -18,7 +18,7 @@
 ### License
 *{MIT License
 
-Copyright (c) [2021] [Eveline PHhilipia]
+Copyright (c) [2021] [Eveline Philipia]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

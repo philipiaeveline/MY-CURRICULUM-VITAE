@@ -8,11 +8,11 @@
     box-sizing: border-box;
 } 
 body{
-    background-image: url(images/evelinerr\ \(1\).jpeg);
+background-image: url("https://www.google.com/search?q=background+images+website&sxsrf=ALeKk03ppTcMRYxUr6PLqkrEP4FQi8zuTA:1613023073376&tbm=isch&source=iu&ictx=1&fir=dBHl3jy4ZJDI5M%252CLXTlpgHqgJdIrM%252C_&vet=1&usg=AI4_-kSvya9EyMS0B8vDuxrwCSBDXcz4_g&sa=X&ved=2ahUKEwj987Wak-HuAhVfQRUIHR9mAwYQ9QF6BAgNEAE&biw=1366&bih=571#imgrc=dBHl3jy4ZJDI5M");
     background-repeat: no-repeat;
     background-size:cover;
     border: solid beige;
-    /* padding-top: 5%; */
+   
 
 }
 .profile-img{
